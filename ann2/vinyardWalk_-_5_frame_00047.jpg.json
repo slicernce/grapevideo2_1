@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 1920
+    },
+    "objects": [
+        {
+            "id": 603589410,
+            "classId": 2763562,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "slicernce",
+            "createdAt": "2021-01-19T20:37:50.680Z",
+            "updatedAt": "2021-01-19T20:37:50.680Z",
+            "tags": [],
+            "classTitle": "grapes",
+            "points": {
+                "exterior": [
+                    [
+                        197,
+                        604
+                    ],
+                    [
+                        321,
+                        809
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 603589409,
+            "classId": 2763562,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "slicernce",
+            "createdAt": "2021-01-19T20:37:50.679Z",
+            "updatedAt": "2021-01-19T20:37:50.679Z",
+            "tags": [],
+            "classTitle": "grapes",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        661
+                    ],
+                    [
+                        161,
+                        844
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 603589408,
+            "classId": 2763562,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "slicernce",
+            "createdAt": "2021-01-19T20:37:50.677Z",
+            "updatedAt": "2021-01-19T20:37:50.677Z",
+            "tags": [],
+            "classTitle": "grapes",
+            "points": {
+                "exterior": [
+                    [
+                        347,
+                        493
+                    ],
+                    [
+                        632,
+                        783
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 603589407,
+            "classId": 2763562,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "slicernce",
+            "createdAt": "2021-01-19T20:37:50.676Z",
+            "updatedAt": "2021-01-19T20:37:50.676Z",
+            "tags": [],
+            "classTitle": "grapes",
+            "points": {
+                "exterior": [
+                    [
+                        798,
+                        455
+                    ],
+                    [
+                        965,
+                        733
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 603589406,
+            "classId": 2763562,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "slicernce",
+            "createdAt": "2021-01-19T20:37:50.675Z",
+            "updatedAt": "2021-01-19T20:37:50.675Z",
+            "tags": [],
+            "classTitle": "grapes",
+            "points": {
+                "exterior": [
+                    [
+                        1034,
+                        442
+                    ],
+                    [
+                        1554,
+                        750
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 603589405,
+            "classId": 2763562,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "slicernce",
+            "createdAt": "2021-01-19T20:37:50.674Z",
+            "updatedAt": "2021-01-19T20:37:50.674Z",
+            "tags": [],
+            "classTitle": "grapes",
+            "points": {
+                "exterior": [
+                    [
+                        1710,
+                        672
+                    ],
+                    [
+                        1884,
+                        984
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 1920
+    },
+    "objects": [
+        {
+            "id": 603589135,
+            "classId": 2763562,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "slicernce",
+            "createdAt": "2021-01-19T20:37:41.254Z",
+            "updatedAt": "2021-01-19T20:37:41.254Z",
+            "tags": [],
+            "classTitle": "grapes",
+            "points": {
+                "exterior": [
+                    [
+                        471,
+                        635
+                    ],
+                    [
+                        598,
+                        757
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 603589134,
+            "classId": 2763562,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "slicernce",
+            "createdAt": "2021-01-19T20:37:41.254Z",
+            "updatedAt": "2021-01-19T20:37:41.254Z",
+            "tags": [],
+            "classTitle": "grapes",
+            "points": {
+                "exterior": [
+                    [
+                        618,
+                        534
+                    ],
+                    [
+                        756,
+                        715
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 603589133,
+            "classId": 2763562,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "slicernce",
+            "createdAt": "2021-01-19T20:37:41.252Z",
+            "updatedAt": "2021-01-19T20:37:41.252Z",
+            "tags": [],
+            "classTitle": "grapes",
+            "points": {
+                "exterior": [
+                    [
+                        176,
+                        730
+                    ],
+                    [
+                        346,
+                        872
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 603589132,
+            "classId": 2763562,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "slicernce",
+            "createdAt": "2021-01-19T20:37:41.252Z",
+            "updatedAt": "2021-01-19T20:37:41.252Z",
+            "tags": [],
+            "classTitle": "grapes",
+            "points": {
+                "exterior": [
+                    [
+                        794,
+                        470
+                    ],
+                    [
+                        950,
+                        731
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 603589131,
+            "classId": 2763562,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "slicernce",
+            "createdAt": "2021-01-19T20:37:41.248Z",
+            "updatedAt": "2021-01-19T20:37:41.248Z",
+            "tags": [],
+            "classTitle": "grapes",
+            "points": {
+                "exterior": [
+                    [
+                        1222,
+                        429
+                    ],
+                    [
+                        1346,
+                        643
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 603589130,
+            "classId": 2763562,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "slicernce",
+            "createdAt": "2021-01-19T20:37:41.248Z",
+            "updatedAt": "2021-01-19T20:37:41.248Z",
+            "tags": [],
+            "classTitle": "grapes",
+            "points": {
+                "exterior": [
+                    [
+                        1356,
+                        392
+                    ],
+                    [
+                        1517,
+                        618
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 603589129,
+            "classId": 2763562,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "slicernce",
+            "createdAt": "2021-01-19T20:37:41.247Z",
+            "updatedAt": "2021-01-19T20:37:41.247Z",
+            "tags": [],
+            "classTitle": "grapes",
+            "points": {
+                "exterior": [
+                    [
+                        1489,
+                        343
+                    ],
+                    [
+                        1740,
+                        659
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
